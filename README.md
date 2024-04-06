@@ -67,7 +67,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ### El proyecto se encuentra alojado en mi repositorio de GitHub:
 
-- [Pagina web](https://miguelramosalarcon.github.io/100DaysOfProjects/88-day-tourism-landing-page/)
+- [Pagina web](https://johanserna1023.github.io/88-day-tourism-landing-page/)
 - [Codigo fuente]()
 
 ## Proceso de trabajo
